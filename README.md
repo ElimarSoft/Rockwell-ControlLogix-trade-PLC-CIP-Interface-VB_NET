@@ -1,4 +1,4 @@
-# CIP004 – Rockwell RSLogix PLC CIP Interface (VB.NET)
+# Rockwell ControlLogix PLC CIP Interface (VB.NET)
 
 This project provides a **VB.NET implementation of a CIP (Common Industrial Protocol) interface** for connecting to **Rockwell RSLogix PLCs**.
 
@@ -9,3 +9,4 @@ You can use this repository as:
 - A **free connection driver** for your RSLogix PLCs  
 
 It’s designed to be simple, extensible, and practical for real‑world industrial automation scenarios.
+Tested with ControlLogix 1756-L63 V19
