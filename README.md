@@ -1,4 +1,4 @@
-# Rockwell ControlLogix PLC CIP Interface (VB.NET)
+# Rockwell ControlLogix&trade; PLC CIP Interface (VB.NET)
 
 This project provides a **VB.NET implementation of a CIP (Common Industrial Protocol) interface** for connecting to **Rockwell RSLogix PLCs**.
 
